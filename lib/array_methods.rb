@@ -8,14 +8,14 @@ using_include.reverse
 
 
 
-using_include
+using_include.first 
 
-end
 
-def using_last(array)
 
-end
+using_include.last
 
-def using_size(array)
+
+
+using_include.size 
 
 end
