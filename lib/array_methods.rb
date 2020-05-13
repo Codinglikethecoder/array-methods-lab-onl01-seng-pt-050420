@@ -1,15 +1,14 @@
 using_include = ["array", "element"]
 using_include.include? ("element")
 
-def using_sort(array)
+using_include.sort
 
-end
 
-def using_reverse(array)
+using_include.reverse
 
-end
 
-def using_first(array)
+
+using_include
 
 end
 
